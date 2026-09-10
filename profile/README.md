@@ -69,4 +69,3 @@
   </tr>
 </table>
 
-> Use CapSolver only on websites and systems you own or are authorized to test or automate.
